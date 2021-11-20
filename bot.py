@@ -40,7 +40,7 @@ async def help(event):
   await event.reply(helptext,
                     buttons=(
                       [Button.url('🌟 Meni qrupa elave et', 'https://t.me/loungetaggerbot?startgroup=a'),
-                       Button.url('📣 XAOSFED', 'https://t.me/DBMresmi'),
+                       Button.url('📣 DBMresmi', 'https://t.me/DBMresmi'),
                       Button.url('🚀 Sahibim', 'https://t.me/DBMBOSSdu')]
                     ),
                     link_preview=False
